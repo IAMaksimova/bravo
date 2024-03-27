@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/bravo/static/css/main.f5b4e6f1.css",
-    "main.js": "/bravo/static/js/main.68ffca6d.js",
+    "main.js": "/bravo/static/js/main.c7fe1ac7.js",
     "static/js/787.25eaef86.chunk.js": "/bravo/static/js/787.25eaef86.chunk.js",
     "static/media/mainphoto.png": "/bravo/static/media/mainphoto.adf20f47e7f7ed5e78be.png",
     "static/media/music1.jpg": "/bravo/static/media/music1.b52059d6d4c880770bd9.jpg",
+    "static/media/test.jpg": "/bravo/static/media/test.622e2d7f8dd9dabe5d5c.jpg",
     "static/media/bravo2.webp": "/bravo/static/media/bravo2.acde28824c4bf590fdad.webp",
     "static/media/bravo2.jpg": "/bravo/static/media/bravo2.b98ab4a0cdc68989335a.jpg",
     "static/media/bravo1.jpeg": "/bravo/static/media/bravo1.32594068fd6a47753c1e.jpeg",
     "static/media/icons-sprite.svg": "/bravo/static/media/icons-sprite.bf7deaa249c220f9a769f50c4130a215.svg",
     "index.html": "/bravo/index.html",
     "main.f5b4e6f1.css.map": "/bravo/static/css/main.f5b4e6f1.css.map",
-    "main.68ffca6d.js.map": "/bravo/static/js/main.68ffca6d.js.map",
+    "main.c7fe1ac7.js.map": "/bravo/static/js/main.c7fe1ac7.js.map",
     "787.25eaef86.chunk.js.map": "/bravo/static/js/787.25eaef86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f5b4e6f1.css",
-    "static/js/main.68ffca6d.js"
+    "static/js/main.c7fe1ac7.js"
   ]
 }
